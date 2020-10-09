@@ -1,0 +1,19 @@
+.footer__description{
+margin: 0;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 114%;
+text-align: right;
+color: #FFFFFF;
+max-width: 186px;
+}
+@media screen and (max-width:767px)
+{
+    .footer__description{
+        font-size: 14px;
+    line-height: 1;
+    margin-top: 48px;
+    }
+    
+}
