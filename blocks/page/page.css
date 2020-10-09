@@ -1,14 +1,14 @@
-.page{
-font-family:"Inter", Arial, sans-serif;
--webkit-font-smoothing: antialiased;
--moz-osx-font-smoothing: grayscale;
-display: flex;
-align-content: center;
-flex-direction: column;
-max-width: 1184px;
-min-width: 320px;
-min-height: 100vh;
-margin-right: auto;
-margin-left: auto;
-box-sizing: border-box;
+.page {
+    font-family: "Inter", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    max-width: 1280px;
+    min-width: 320px;
+    min-height: 100vh;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
 }

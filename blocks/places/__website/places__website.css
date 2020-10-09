@@ -1,11 +1,8 @@
-.places__website{
+.places__website {
     align-self: end;
-    
 }
-@media screen and (max-width:767px)
-{
-    .places__website{
+@media screen and (max-width: 767px) {
+    .places__website {
         display: none;
-        
     }
 }
