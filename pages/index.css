@@ -1,13 +1,14 @@
 @import url(../vendor/normalize.css);
 
 @import url(../vendor/fonts/fonts.css);
+
 @import url(../blocks/screen/screen.css);
 
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__lang/header__lang.css);
-@import url(../blocks//header/__lang_activ/header__lang_activ.css);
+@import url(../blocks/header/__lang/_activ/header__lang_activ.css);
 @import url(../blocks/header/__langswitch/header__langswitch.css);
 @import url(../blocks/header/__logo/header__logo.css);
 
